@@ -7,10 +7,10 @@
 ![图片.png](https://cdn.nlark.com/yuque/0/2020/png/266876/1579313113213-e6187f3f-c084-42a4-b298-31a14879ebec.png#align=left&display=inline&height=226&name=%E5%9B%BE%E7%89%87.png&originHeight=226&originWidth=404&size=5585&status=done&style=none&width=404)
 
 ### 二、创建项目
-1、基础配置
+1、基础配置  
 ![图片.png](https://cdn.nlark.com/yuque/0/2020/png/266876/1579313142274-e808852f-9637-4c71-96cb-e812ceca8109.png#align=left&display=inline&height=466&name=%E5%9B%BE%E7%89%87.png&originHeight=466&originWidth=541&size=15982&status=done&style=none&width=541)
 
-2、选择基础依赖
+2、选择基础依赖  
 ![图片.png](https://cdn.nlark.com/yuque/0/2020/png/266876/1579313160171-af7ac4b2-be6e-48c7-b4e8-b5c0fab60ef1.png#align=left&display=inline&height=571&name=%E5%9B%BE%E7%89%87.png&originHeight=571&originWidth=536&size=19310&status=done&style=none&width=536)
 
 3、引入 LomBok 依赖，让开发跑的飞起
