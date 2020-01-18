@@ -1,0 +1,22 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    #mysql驱动类
+    driver-class-name: com.mysql.cj.jdbc.Driver 
+    #数据库连接地址
+    url: jdbc:mysql://127.0.0.1:3306/db_spring_security_tutorial?serverTimezone=Asia/Shanghai&autoReconnect=true
+    #数据库账号
+    username: root
+    #密码
+    password: 123456
+  jpa:
+    hibernate:
+      #自动建表
+      ddl-auto: update
+    #方言
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    #显示sql语句
+    show-sql: true
+
+
